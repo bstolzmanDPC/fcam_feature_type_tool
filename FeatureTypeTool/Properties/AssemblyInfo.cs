@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FeatureTypeTool")]
 [assembly: AssemblyDescription("DEBUG TOOL")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Waukesha Bearings Corporation")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FeatureTypeTool")]
-[assembly: AssemblyCopyright("Copyright © Waukesha Bearings Corporation 2019")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
